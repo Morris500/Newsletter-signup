@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  background-color: #f0f8ff ;
+padding: 10% 0 10% 0;
+
+}
+.form {
+  display: block;
+}
+h1{
+  color: black;
+width:
+
+}
+input{
+  display: block;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  width: 250px;
+  height: 25px;
+  background-color: #f8f8ff;
+  border-width: thin;
+}
+button{
+  margin-top: 0px;
+  margin-bottom: 10px;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  width: 258px;
+  border-radius: 0px;
+  background-color: #0070bb;
+  border-width: 0.5px;
+  height: 25px
+}
+h4{
+  margin-top: 0px
+}
